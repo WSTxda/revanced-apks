@@ -1,6 +1,8 @@
 Reddit: 2024.17.0  
+Spotify: 9.0.34.447  
 Tiktok: 36.5.4  
-YT-Music: 8.05.51  
+Twitch (arm64-v8a): 23.8.0  
+Twitch (arm-v7a): 23.8.0  
 YouTube: 20.07.39  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
